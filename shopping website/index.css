@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: hsl(0, 0%, 0%);
+    padding: 50px;
+}
+.container{
+    background-color: hsl(0, 0%, 100%);
+    padding: 20px;
+}
+/* nav{
+    display: flex;
+    gap: 10pc;
+    align-items: center; 
+}
+.logo{
+    width: 50px;
+}
+.logo2{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+}
+.logo1{
+    display: flex;
+    gap: 40pc;
+}
+.logo4{
+    width: 50px;
+} */
